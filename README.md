@@ -16,3 +16,7 @@ Add the year of sales to the view to identify trends and outliers.
 Add a filter so that the user can select one, more than one, or all years. 
 
 Create a dashboard with this view.
+
+See my page:
+
+https://public.tableau.com/app/profile/raya.alshammri/viz/project2_SalesPerformanceAnalysis_16243657187830/SalesPerformanceAnalysisProject
